@@ -5,3 +5,5 @@ Content-Type: application/json
   "iccid": "1234567890",
   "customerEmail": "test@telstra.com"
 }
+
+GET http://localhost:8080/activation-record?simCardId=1
